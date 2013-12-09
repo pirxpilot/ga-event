@@ -1,0 +1,18 @@
+{
+  "name": "ga-event",
+  "repo": "code42day/ga-event",
+  "description": "Google Analytics page and event tracking",
+  "version": "0.0.0",
+  "keywords": [
+    "google", "analytics", "events"
+  ],
+  "dependencies": {
+    "code42day/dataset": "0.2.2",
+    "code42day/ga": "1.1.0",
+    "component/event": "0.1.2"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

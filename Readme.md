@@ -1,11 +1,11 @@
 # ga
 
   Google Analytics event tracking
-  Use instead of code42day/ga component to track pages *and* events
+  Use instead of `ga` component to track pages *and* events
 
 ## Installation
 
-    $ component install code42day/ga-event
+    TBD
 
 ## API
 
@@ -38,5 +38,5 @@ Check [test/index.html] for example.
 
   MIT
 
-[test/index.html]: https://github.com/code42day/ga-event/blob/master/test/index.html
+[test/index.html]: https://github.com/pirxpilot/ga-event/blob/master/test/index.html
 [1]: https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide
